@@ -1,4 +1,4 @@
-export default class UserRepository {
+export default class Example {
 	addEvents = () => {
 		const $node = document.getElementById('btn')
 		$node.addEventListener('click', () => {
